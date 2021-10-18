@@ -1,4 +1,4 @@
-# conversor_de_moedas #flutterando
+# conversor_de_moedas @flutterando
 
 Conversor de moedas, criado no curso do Flutterando
 
